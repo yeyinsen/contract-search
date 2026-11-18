@@ -1,0 +1,37 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 临时文件
+*.tmp
+~$*
+.DS_Store
+
+# ---------- 以下是个人文件，不上传 ----------
+
+# 练习草稿（不是项目内容）
+practice_w1d1.py
+practice_w1d2.py
+practice_w1d3.py
+demo_w1d3.py
+docqa.py
+ask_contract.py
+
+# 个人计划与学习记录（含求职策略、薪资、个人反思，不公开）
+日志.md
+项目蓝图_合约问答助手.md
+今天的步骤.md
+第二天步骤.md
+
+# 本地启动脚本（Windows 专用，对别人没用）
+*.bat
